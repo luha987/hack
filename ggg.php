@@ -35,7 +35,7 @@ Cookie: identity=".$rand1."; browser_id=".$rand2."; _ga=GA1.2.1024758930.1531960
 				'feature' => 'phone_registration',
 				'feature_tag' => '',
 				'manual_phone' => $nomer,
-				'device_fingerprint' => $rand3,
+				'device_fingerprint' => $rand,
 				'channel' => 'WhatsApp'
                              )
                            );
